@@ -1,5 +1,6 @@
-Hi👋
-<h1 align="center">WORKİNG Samira Urhan</h1>
+Hi 👋
+
+<h1 align="center">Samira Urhan</h1>
 <h3 align="center">I am a person with extensive skills and world-class IT solutions.</h3>
 
 <p align="left"> <a href="https://twitter.com/samiraurhan" target="blank"><img src="https://img.shields.io/twitter/follow/samiraurhan?logo=twitter&style=for-the-badge" alt="samiraurhan" /></a> </p>
